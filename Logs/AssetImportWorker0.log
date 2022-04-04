@@ -612,3 +612,4 @@ Received Import Request.
 Start importing Assets/Prefabs/wooden_box_fbx.prefab using Guid(e8276488960306e46a76b81862a1550f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79dccf9283e2a9343fdb2859c5c01728') in 0.261231 seconds 
   Import took 0.263614 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
